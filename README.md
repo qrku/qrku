@@ -8,5 +8,5 @@ others - Python, Go
 ---
 i'm here
 @ - artemddubinkin@gmail.com
-telegram - @artdd
+telegram - @art_dd
 
